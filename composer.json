@@ -1,0 +1,17 @@
+{
+    "name": "mg/notes",
+    "description": "notes",
+    "autoload": {
+        "psr-4": {
+            "Mg\\Notes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mehmet emin"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
